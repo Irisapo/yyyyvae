@@ -1,0 +1,27 @@
+seurat_clusters,cell_type,mapped_cell_type,mapped_subcell_type,mapped_cell_type_toobroad
+0,Mature Adipocytes,0,0,0
+1,APC,0,0,0
+2,APC,0,0,0
+3,Mature Adipocytes,0,0,0
+4,Macrophages,Myeloid,Macrophage,Myeloid
+5,Endothelial,0,0,Endothelial
+6,Mesothelial,Epithelial,Mesothelial,Epithelial
+7,Mature Adipocytes,0,0,0
+8,PRM1+,0,0,?
+9,CNTNAP+,0,0,?
+10,Endothelial,0,0,Endothelial
+11,Endothelial Capillar,0,0,?
+12,SMC,Stromal,Smooth-Muscle,Stromal
+13,Pericytes,Stromal,Pericyte,Stromal
+14,APC,0,0,0
+15,Immune(T/NK),0,0,Lymphoid
+16,Lymph endothelial,Endothelial,Lymphatic-Endothelial,Endothelial
+17,Monocytes/Leukocytes,0,0,Myeloid
+18,Mature Adipocytes,0,0,0
+19,Neutrophil/B,0,0,?
+20,Mast,0,0,?
+21,Immune,0,0,?
+22,B memory,Lymphoid,B,Lymphoid
+23,Schwann,0,0,0
+24,Fibroblasts,Stromal,Fibroblast,Stromal
+25,Lymph endothelial,0,0,Endothelial
