@@ -12,7 +12,7 @@ seurat_clusters,cell_type,mapped_cell_type,mapped_subcell_type,mapped_cell_type_
 10,Endothelial,0,0,Endothelial
 11,Endothelial Capillar,0,0,?
 12,SMC,Stromal,Smooth-Muscle,Stromal
-13,Pericytes,Stromal,Pericyte,Stromal
+13,Pericytes,Stromal,0,Stromal
 14,APC,0,0,0
 15,Immune(T/NK),0,0,Lymphoid
 16,Lymph endothelial,Endothelial,Lymphatic-Endothelial,Endothelial
